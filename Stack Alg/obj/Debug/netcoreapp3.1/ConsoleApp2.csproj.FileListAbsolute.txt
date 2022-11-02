@@ -12,3 +12,17 @@ C:\Users\New Owner\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.
 C:\Users\New Owner\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
 C:\Users\New Owner\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
 C:\Users\New Owner\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
+C:\Users\Finn\OneDrive - Sheffield Hallam University\year 2 computer science\Alg-DS-main\Stack Alg\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+C:\Users\Finn\OneDrive - Sheffield Hallam University\year 2 computer science\Alg-DS-main\Stack Alg\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+C:\Users\Finn\OneDrive - Sheffield Hallam University\year 2 computer science\Alg-DS-main\Stack Alg\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+C:\Users\Finn\OneDrive - Sheffield Hallam University\year 2 computer science\Alg-DS-main\Stack Alg\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\Finn\OneDrive - Sheffield Hallam University\year 2 computer science\Alg-DS-main\Stack Alg\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\Finn\OneDrive - Sheffield Hallam University\year 2 computer science\Alg-DS-main\Stack Alg\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\Finn\OneDrive - Sheffield Hallam University\year 2 computer science\Alg-DS-main\Stack Alg\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Finn\OneDrive - Sheffield Hallam University\year 2 computer science\Alg-DS-main\Stack Alg\obj\Debug\netcoreapp3.1\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Finn\OneDrive - Sheffield Hallam University\year 2 computer science\Alg-DS-main\Stack Alg\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\Finn\OneDrive - Sheffield Hallam University\year 2 computer science\Alg-DS-main\Stack Alg\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+C:\Users\Finn\OneDrive - Sheffield Hallam University\year 2 computer science\Alg-DS-main\Stack Alg\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Finn\OneDrive - Sheffield Hallam University\year 2 computer science\Alg-DS-main\Stack Alg\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\Finn\OneDrive - Sheffield Hallam University\year 2 computer science\Alg-DS-main\Stack Alg\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\Finn\OneDrive - Sheffield Hallam University\year 2 computer science\Alg-DS-main\Stack Alg\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
